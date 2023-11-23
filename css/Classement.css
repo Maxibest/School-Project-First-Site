@@ -1,0 +1,278 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+* {
+    font-family: 'Young Serif', serif;
+
+}
+
+
+
+.Riot {
+    display: block;
+    text-align: center;
+    background-color: black;
+}
+
+.sec1 nav {
+    background-color: rgb(0, 0, 0);
+    font-size: medium;
+    margin: 0;
+    padding: 0;
+
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+nav ul {
+    display: flex;
+    flex: 1 1 40rem;
+    justify-content: space-around;
+    font-family: 'Young Serif', serif;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Young Serif', serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.table_body tr {
+    left: 5%;
+}
+
+.table_body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff5;
+}
+
+.table_body table {
+    height: 150px;
+}
+
+
+body {
+    min-height: 100vh;
+    background: url(/Images/284-2842599_legends-of-runeterra-hd-desktop-wallpaper-legends-of.jpg) center / cover;
+    background-attachment: fixed;
+
+    backdrop-filter: blur(2px);
+}
+
+
+
+
+td img {
+    width: 70px;
+    height: 50px;
+    margin-right: .5rem;
+    ;
+    clip-path: circle(40%);
+
+    vertical-align: middle;
+}
+
+th {
+    font-size: large;
+    margin: auto;
+
+}
+
+table,
+th,
+td {
+    padding: 1rem;
+}
+
+
+
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+
+
+
+.progress-bar {
+    width: 50%;
+    height: 20px;
+    background-color: #490074;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progress-victoire {
+    width: 30%;
+    height: 20px;
+    background-color: #0084ff;
+    text-align: center;
+    line-height: 20px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.progess-Ban {
+    width: 13%;
+    height: 20px;
+    background-color: rgb(116, 0, 0);
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressE-PoP {
+    width: 22%;
+    height: 20px;
+    background-color: #490074;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressE-Victoire {
+    width: 28%;
+    height: 20px;
+    background-color: #0084ff;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressE-ban {
+    width: 14%;
+    height: 20px;
+    background-color: rgb(116, 0, 0);
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.progressY-POP {
+    width: 19%;
+    height: 20px;
+    background-color: #490074;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.progessY-V {
+    width: 50%;
+    height: 20px;
+    background-color: #0084ff;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.progessY-T {
+    width: 20%;
+    height: 20px;
+    background-color: rgb(116, 0, 0);
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressC-POP {
+    width: 18%;
+    height: 20px;
+    background-color: #490074;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressC-V {
+    width: 48%;
+    height: 20px;
+    background-color: #0084ff;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressC-T {
+    width: 14%;
+    height: 20px;
+    background-color: rgb(116, 0, 0);
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressO-POP {
+    width: 15%;
+    height: 20px;
+    background-color: #490074;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressO-V {
+    width: 50.2%;
+    height: 20px;
+    background-color: #0084ff;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.progressO-T {
+    width: 12.5%;
+    height: 20px;
+    background-color: rgb(116, 0, 0);
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    border-radius: 5px;
+}
